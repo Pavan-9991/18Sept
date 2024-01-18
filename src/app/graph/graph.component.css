@@ -1,0 +1,30 @@
+.graph-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+  }
+  
+  .link {
+    stroke: #999;
+    stroke-opacity: 0.6;
+  }
+  
+  .node {
+    fill: #1f77b4;
+    stroke: #fff;
+    stroke-width: 2px;
+  }
+  
+  .link {
+    stroke: #ccc;
+    stroke-width: 2;
+  }
+  
+  .node {
+    fill: #1f77b4;
+    stroke: #fff;
+    stroke-width: 2;
+  }
